@@ -1,6 +1,6 @@
 ### Hi, I'm Dat 👋
 
-I build software from Ho Chi Minh City, Vietnam. By day I run [Realitech](https://realitech.dev): XR, 3D digitization and AI assistants for businesses. On the side, I'm shipping **12 products in 12 months**, in public.
+Nine years of sales, data and tech in Ho Chi Minh City, Vietnam. By day I run [Realitech](https://realitech.dev), a no-code WebAR platform: scan → create → publish. On the side, I'm shipping **12 products in 12 months**, in public.
 
 **Why in public?** Building from Vietnam comes with a twist: Stripe doesn't accept Vietnamese sellers. So next to the products, I'm writing down how to build and sell globally from here, with the real numbers.
 
@@ -9,6 +9,16 @@ I build software from Ho Chi Minh City, Vietnam. By day I run [Realitech](https:
 - Two weeks max from idea to launch
 - Payments on day one
 - After 30 days with no paying customer or 1,000 real users, it keeps running in the background and I move on
+
+### The road so far
+
+- **2017–2019 · Lalamove Vietnam.** Joined the first business development team when the brand was new here. Best Sales HCMC in July 2018, 100+ prepaid business accounts in a year. Plugged the delivery API into merchants' order flows, and B2B went from 23% to 50% of HCMC revenue.
+- **2019–2021 · First startups.** Co-founded Beaudy.vn, a beauty booking marketplace, and a small software studio.
+- **2021–2024 · Bootstrapped a jewelry brand.** Shot the photos, ran the ads, read the P&L every month. In 2023: 1.44B VND revenue from 3,040 orders, with 72% less Meta ad spend than 2022 while revenue more than doubled.
+- **2025– · Realitech.** Fourth company, incorporated July 2025. Pitched "Why XR Adoption Struggles" at Next Wave of Startups 2025.
+- **Oct 2026 · 12 products in 12 months.** You are here.
+
+The long version, in Vietnamese: [datmonde.com](https://datmonde.com).
 
 ### 12 products in 12 months
 
