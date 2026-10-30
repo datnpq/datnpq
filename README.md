@@ -20,6 +20,13 @@ Nine years of sales, data and tech in Ho Chi Minh City, Vietnam. By day I run [R
 
 The long version, in Vietnamese: [datmonde.com](https://datmonde.com).
 
+**Old code I kept public on purpose**, so you can see where it started:
+
+- **2022** · first little web tools in plain HTML/JS: [checkthanso](https://github.com/datnpq/checkthanso) (numerology), [checkmenhkhuyet](https://github.com/datnpq/checkmenhkhuyet) (Eastern astrology). That thread ends up in Vân Quẻ, four years later.
+- **2023** · building for my own jewelry brand: [patronus-loyalty](https://github.com/datnpq/patronus-loyalty), a membership card page.
+- **2024–2025** · learning by cloning and playing: [apple-clone-website](https://github.com/datnpq/apple-clone-website), [flappy-bird](https://github.com/datnpq/flappy-bird), [datasciencecoursera](https://github.com/datnpq/datasciencecoursera).
+- **2026** · [tuvikit](https://github.com/datnpq/tuvikit), [matrix-destiny](https://github.com/datnpq/matrix-destiny), then everything below.
+
 ### 12 products in 12 months
 
 | # | Product | What it does | Status |
